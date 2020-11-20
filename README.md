@@ -31,6 +31,40 @@ CodeGuide开源项目创建指在是为Java开发者提供一个良好的学习�
 * [一文入门jvm虚拟机](https://mp.weixin.qq.com/s/ZX1GHIAPevaj1aNTIERnKw)
 * [靓仔，我是Class，交个朋友吧！](https://mp.weixin.qq.com/s/of3CbfuAGzMevevwkno60w)
 
+## :pushpin:算法解析
+
+* [集合算法基础--链表](https://mp.weixin.qq.com/s/BOPP8JpDWNCqUfK8_SZtoA)
+* [集合算法基础--二叉树(上)](https://mp.weixin.qq.com/s/XhYzztTSv0qxkNHj7N_nhA)
+* [集合算法基础--二叉树(下)](https://mp.weixin.qq.com/s/399l5_VH7RsKIoG198zrgQ)
+* [必须掌握的8大排序算法](https://mp.weixin.qq.com/s/gAyHeY9FWHkBFA_Jv4U2Hw)
+
+## :scissors:刷题系列
+
+* [刷了LeetCode的链表专题，我发现了一个秘密！](https://mp.weixin.qq.com/s/6zfGUhYOVVXXULT8Zwxwow)
+* [秀一套组合拳!《数据结构与算法》+《剑指offer》来了](https://mp.weixin.qq.com/s/Btv_CnLbjknwVCLKHXaohw)
+* [秒杀剑指offer(01-10)](https://mp.weixin.qq.com/s/Dr5r-buERtFoiHRZIMWeOA)
+* [秒杀剑指offer(11-20)](https://mp.weixin.qq.com/s/fWzFkouRrCm6INn-sNCwcQ)
+* [秒杀剑指offer(21-30)](https://mp.weixin.qq.com/s/4e-UdGIfd5ZKkjYJ8me0zQ)
+* [秒杀剑指offer(31-40)](https://mp.weixin.qq.com/s/4q_C_T71wqJ6xWfBY0X4Gw)
+* [秒杀剑指offer(41-50)](https://mp.weixin.qq.com/s/A541aG15Hk1gZUlCXhbsaQ)
+* [秒杀剑指offer(51-60)](https://mp.weixin.qq.com/s/qrTnw2rOgpftdpCEBOcxfg)
+* [秒杀剑指offer(终篇)](https://mp.weixin.qq.com/s/fZWPkRTPrDbTs8zm2Wc51Q)
+
+## :bicyclist:MySQL
+
+* [MySql基础知识点扫盲](https://mp.weixin.qq.com/s/kHIiOksAb35EE5EuIY3Ubw)
+* [深入浅出MySQL语句执行流程](https://mp.weixin.qq.com/s/xY-tEGPDDElXF_uirtoAcg)
+* [深入理解MySQL事务！！！](https://mp.weixin.qq.com/s/UB8rByclbyWHxgMgMAL_nQ)
+* [深入理解MySQL索引](https://mp.weixin.qq.com/s/CMWL27-UHLRW894iasR9eQ)
+* [深入理解MySQL锁](https://mp.weixin.qq.com/s/lEkGEj0VbdOENhTiBoQ1IA)
+
+## :swimmer:SpringBoot
+
+* [乘风破浪，SpringBoot入门](https://mp.weixin.qq.com/s/SlnTU48uv9gJse4Z6s8_0g)
+* [面试官：数据持久化方式有哪几种？怎么配置多数据源？](https://mp.weixin.qq.com/s/QwY2XLqOBdUc5aKbMXE8cA)
+
+
+
 <span id="关注公众号">**关注公众号** </span>
 
 学习路线、后端基础、进阶知识点、笔试/面试题解、原创电子书、开发学习交流群等，在微信搜【**小郎码知答**】，你想要的告诉我，我会满足你。
