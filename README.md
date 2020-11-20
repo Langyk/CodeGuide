@@ -70,6 +70,5 @@ CodeGuide开源项目创建指在是为Java开发者提供一个良好的学习�
 学习路线、后端基础、进阶知识点、笔试/面试题解、原创电子书、开发学习交流群等，在微信搜【**小郎码知答**】，你想要的告诉我，我会满足你。
 
 或者扫描以下二维码关注我，我希望以后日子里能够一起成长、一起变强:cow:
-
-![](https://gitee.com/Langyk/image-repository1/raw/master/img/20201120102330.png)
+![公众号推广](https://gitee.com/Langyk/image-repository1/raw/master/img/20201120102330.png)
 
