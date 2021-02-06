@@ -30,6 +30,9 @@ CodeGuide开源项目创建指在是为Java开发者提供一个良好的学习�
 
 * [一文入门jvm虚拟机](https://mp.weixin.qq.com/s/ZX1GHIAPevaj1aNTIERnKw)
 * [靓仔，我是Class，交个朋友吧！](https://mp.weixin.qq.com/s/of3CbfuAGzMevevwkno60w)
+* [JVM内存这些事，我得和你聊一聊](https://mp.weixin.qq.com/s/kDnHV0D6aA-tUjK-fVco5w)
+* [深入解析类加载机制](https://mp.weixin.qq.com/s/GbEBIZbYuNQX2BhJaCnKnw)
+* [嘿，你要的Java内存模型(JMM)来了](https://mp.weixin.qq.com/s/U6hkLBHEm_BHPr_RT6E0Fg)
 
 ## :pushpin:算法解析
 
@@ -37,9 +40,6 @@ CodeGuide开源项目创建指在是为Java开发者提供一个良好的学习�
 * [集合算法基础--二叉树(上)](https://mp.weixin.qq.com/s/XhYzztTSv0qxkNHj7N_nhA)
 * [集合算法基础--二叉树(下)](https://mp.weixin.qq.com/s/399l5_VH7RsKIoG198zrgQ)
 * [必须掌握的8大排序算法](https://mp.weixin.qq.com/s/gAyHeY9FWHkBFA_Jv4U2Hw)
-* [JVM内存这些事，我得和你聊一聊](https://mp.weixin.qq.com/s/kDnHV0D6aA-tUjK-fVco5w)
-* [深入解析类加载机制](https://mp.weixin.qq.com/s/GbEBIZbYuNQX2BhJaCnKnw)
-* [嘿，你要的Java内存模型(JMM)来了](https://mp.weixin.qq.com/s/U6hkLBHEm_BHPr_RT6E0Fg)
 
 ## :scissors:刷题系列
 
