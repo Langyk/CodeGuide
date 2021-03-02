@@ -41,6 +41,7 @@ CodeGuide开源项目创建指在是为Java开发者提供一个良好的学习�
 * [集合算法基础--二叉树(上)](https://mp.weixin.qq.com/s/XhYzztTSv0qxkNHj7N_nhA)
 * [集合算法基础--二叉树(下)](https://mp.weixin.qq.com/s/399l5_VH7RsKIoG198zrgQ)
 * [必须掌握的8大排序算法](https://mp.weixin.qq.com/s/gAyHeY9FWHkBFA_Jv4U2Hw)
+* [手写LRU缓存淘汰算法](https://mp.weixin.qq.com/s/j9SQMqwHkRee5-ynUF4QiA)
 
 ## :scissors:刷题系列
 
