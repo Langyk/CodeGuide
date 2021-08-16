@@ -79,13 +79,13 @@ CodeGuide开源项目创建指在是为Java开发者提供一个良好的学习�
 
 * [so easy，一文拿下Git！](https://mp.weixin.qq.com/s/323_JCwYCVJq8F0Q2mxsNw)
 
-## 🍄 `:mushroom:`技术杂谈
+## 🍄 技术杂谈
 
 * [大厂的产品研发流程，你知道么？](https://mp.weixin.qq.com/s/p7PfknCF6bBUyPeu0TxKEQ)
 
 * [上海有哪些互联网,你都知道么？](https://mp.weixin.qq.com/s/Eewm1r_uqzlUdI4k4fs1xQ)
 
-## 🌱 `:seedling:`大数据系列
+## 🌱 大数据系列
 
 * [Java开发，却在秋招时劈腿大数据，大数据技术生态与职业规划详细讲解](https://mp.weixin.qq.com/s/0d6OhBRTdCHcNnKbXkYgDg)
 * [This is BigData, Hdoop组成及生态圈](https://mp.weixin.qq.com/s/YK2F2hGfTry3gzcwMXWo8Q)
