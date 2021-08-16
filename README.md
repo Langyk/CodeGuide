@@ -1,6 +1,8 @@
 # CodeGuide
 CodeGuide开源项目创建指在是为Java开发者提供一个良好的学习平台，文章会涵盖Java基础、数据结构与算法、数据库、中间件、后端的各种框架等，同时也会有后端必知必会的前端知识，仓库内的所有文章都是我个人原创，我个人公众号【**小郎码知答**】会首发文章并同步该仓库内。点击公众号【[小郎码知答](#关注公众号)】及时获取最新文章。
 
+[toc]
+
 ## :black_nib:Java系列
 
 * [集合--Collection解析](https://mp.weixin.qq.com/s/q6q41oddXeGbYcqUrqDlqA)
@@ -42,6 +44,7 @@ CodeGuide开源项目创建指在是为Java开发者提供一个良好的学习�
 * [集合算法基础--二叉树(下)](https://mp.weixin.qq.com/s/399l5_VH7RsKIoG198zrgQ)
 * [必须掌握的8大排序算法](https://mp.weixin.qq.com/s/gAyHeY9FWHkBFA_Jv4U2Hw)
 * [手写LRU缓存淘汰算法](https://mp.weixin.qq.com/s/j9SQMqwHkRee5-ynUF4QiA)
+* [一举拿下贪心](https://mp.weixin.qq.com/s/s-gettOqOgTgP6u9EOwlTg)
 
 ## :scissors:刷题系列
 
@@ -68,7 +71,24 @@ CodeGuide开源项目创建指在是为Java开发者提供一个良好的学习�
 * [乘风破浪，SpringBoot入门](https://mp.weixin.qq.com/s/SlnTU48uv9gJse4Z6s8_0g)
 * [面试官：数据持久化方式有哪几种？怎么配置多数据源？](https://mp.weixin.qq.com/s/QwY2XLqOBdUc5aKbMXE8cA)
 
+## :nail_care:编程工具&资源
 
+* [没有Linux服务器，该如何学习Linux呢？](https://mp.weixin.qq.com/s/haoHK8AbezgzvgtBuUn6pQ)
+
+* [Typora+PicGo+Gitee搭建博客写作环境](https://mp.weixin.qq.com/s/w065XK-7ubE88gmx-XDWlw)
+
+* [so easy，一文拿下Git！](https://mp.weixin.qq.com/s/323_JCwYCVJq8F0Q2mxsNw)
+
+## 🍄 `:mushroom:`技术杂谈
+
+* [大厂的产品研发流程，你知道么？](https://mp.weixin.qq.com/s/p7PfknCF6bBUyPeu0TxKEQ)
+
+* [上海有哪些互联网,你都知道么？](https://mp.weixin.qq.com/s/Eewm1r_uqzlUdI4k4fs1xQ)
+
+## 🌱 `:seedling:`大数据系列
+
+* [Java开发，却在秋招时劈腿大数据，大数据技术生态与职业规划详细讲解](https://mp.weixin.qq.com/s/0d6OhBRTdCHcNnKbXkYgDg)
+* [This is BigData, Hdoop组成及生态圈](https://mp.weixin.qq.com/s/YK2F2hGfTry3gzcwMXWo8Q)
 
 <span id="关注公众号">**关注公众号** </span>
 
